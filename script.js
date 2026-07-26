@@ -53,6 +53,8 @@ const photos = [
     "images/pic36.jpg",
     "images/pic37.jpg",
     "images/pic38.jpg",
+    "images/pic39.jpg",
+    "images/pic40.jpg",
     "images/pic41.jpg",
     "images/pic42.jpg",
     "images/pic43.jpg",
